@@ -10,3 +10,8 @@ https://www.linkedin.com/posts/ajay-madhav-003851190_powerbi-dataanalytics-datav
 ### Pie Chart: Represented the proportion of total spending in each category, highlighting the most popular purchase types among students.</br>
 ### Scatter Plot: Analyzed correlations between spending and other factors, such as store location and types of purchases. It helped identify interesting patterns, such as whether students in urban areas tend to spend more on Gadgets than those in rural areas.</br>
 ### SandDance Plot: Added an interactive 3D visualization using SandDance to allow a more exploratory data experience. This enabled users to filter, rotate, and explore the data from multiple angles, offering new perspectives on student spending habits.
+## PowerBI Dashboard
+<img width="846" height="474" alt="image" src="https://github.com/user-attachments/assets/158d6c54-353c-4579-b750-f79012e84ae2" />
+<img width="987" height="464" alt="image" src="https://github.com/user-attachments/assets/824b38a5-7f69-47b0-b855-b2595368509d" />
+
+
